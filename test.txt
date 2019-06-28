@@ -7,3 +7,5 @@ bbbbbb
 test reset when is commit...
 
 xixixiixixixi
+You are a human what is new person....!
+rebase: in master
